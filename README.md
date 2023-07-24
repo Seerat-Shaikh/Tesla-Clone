@@ -1,3 +1,15 @@
+OVERVIeEW:
+![image](https://github.com/Seerat-Shaikh/Tesla-Clone/assets/129963092/1ffd758e-67ef-4927-9214-e5809caa1575)
+
+SIDEBAR:
+![image](https://github.com/Seerat-Shaikh/Tesla-Clone/assets/129963092/29fcdbc8-e626-4f6a-aff1-bfee101b3d98)
+
+RESPONSIVE VIEW:
+![image](https://github.com/Seerat-Shaikh/Tesla-Clone/assets/129963092/e48add9d-7cca-4312-bda8-85263413694b)
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
